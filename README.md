@@ -52,9 +52,13 @@ pip install pygame
 - **Main Game Loop**: Manages the game state, including rendering, event handling, and collision detection.
 
 ## Screenshots
-Gameplay:
 
-Game Over Screen:
+### Gameplay:
+![Gameplay Screenshot](assets/screenshots/GamePlay.png)
+
+### Game Over Screen:
+![Game Over Screenshot](assets/screenshots/GameOver.png)
+
 
 ## Future Improvements
 - Add more types of obstacles (e.g., trucks, motorcycles).
