@@ -54,10 +54,10 @@ pip install pygame
 ## Screenshots
 
 ### Gameplay:
-![Gameplay Screenshot](assets/screenshots/GamePlay.png)
+![Gameplay Screenshot](screenshots/GamePlay.png)
 
 ### Game Over Screen:
-![Game Over Screenshot](assets/screenshots/GameOver.png)
+![Game Over Screenshot](screenshots/GameOver.png)
 
 
 ## Future Improvements
