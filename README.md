@@ -54,10 +54,10 @@ pip install pygame
 ## Screenshots
 
 ### Gameplay:
-![Gameplay Screenshot](screenshots/GamePlay.png)
+![Gameplay Screenshot](https://github.com/neyamul-hasan14/Car-Racing-Game---Pygame/blob/main/Screenshot%20Sample/GamePlay.png)
 
 ### Game Over Screen:
-![Game Over Screenshot](screenshots/GameOver.png)
+![Game Over Screenshot](https://github.com/neyamul-hasan14/Car-Racing-Game---Pygame/blob/main/Screenshot%20Sample/GameOver.png)
 
 
 ## Future Improvements
